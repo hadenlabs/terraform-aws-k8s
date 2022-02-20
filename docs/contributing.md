@@ -1,8 +1,8 @@
-<!-- Space: TerraformModuleTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Contributing -->
+<!-- Space: Projects -->
+<!-- Parent: TerraformAwsK8s -->
+<!-- Title: TerraformAwsK8s Contributing -->
 
-<!-- Label: TerraformModuleTemplate -->
+<!-- Label: TerraformAwsK8s -->
 <!-- Label: Project -->
 <!-- Label: Contributing -->
 <!-- Include: docs/disclaimer.md -->

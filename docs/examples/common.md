@@ -1,6 +1,6 @@
-<!-- Space: TerraformModuleTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Examples -->
+<!-- Space: Projects -->
+<!-- Parent: TerraformAwsK8s -->
+<!-- Title: TerraformAwsK8s Examples -->
 
 <!-- Label: Examples -->
 <!-- Include: docs/disclaimer.md -->
@@ -10,7 +10,7 @@
 
 ```hcl
   module "main" {
-    source  = "hadenlabs/terraform-module-template/aws"
+    source  = "hadenlabs/terraform-aws-k8s/aws"
     version = "0.0.0"
   }
 ```
