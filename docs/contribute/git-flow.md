@@ -1,8 +1,8 @@
-<!-- Space: TerraformModuleTemplate -->
-<!-- Parent: Project -->
+<!-- Space: Projects -->
+<!-- Parent: TerraformAwsK8s -->
 <!-- Title: Contributing GitFlow -->
 
-<!-- Label: TerraformModuleTemplate -->
+<!-- Label: TerraformAwsK8s -->
 <!-- Label: Project -->
 <!-- Label: Contributing -->
 <!-- Label: GitFlow -->

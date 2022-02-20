@@ -1,8 +1,8 @@
-<!-- Space: TerraformModuleTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Commands -->
+<!-- Space: Projects -->
+<!-- Parent: TerraformAwsK8s -->
+<!-- Title: TerraformAwsK8s Commands -->
 
-<!-- Label: TerraformModuleTemplate -->
+<!-- Label: TerraformAwsK8s -->
 <!-- Label: Project -->
 <!-- Label: Commands -->
 <!-- Include: docs/disclaimer.md -->

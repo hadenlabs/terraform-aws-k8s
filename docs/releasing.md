@@ -1,8 +1,8 @@
-<!-- Space: TerraformModuleTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Releasing -->
+<!-- Space: Projects -->
+<!-- Parent: TerraformAwsK8s -->
+<!-- Title: TerraformAwsK8s Releasing -->
 
-<!-- Label: TerraformModuleTemplate -->
+<!-- Label: TerraformAwsK8s -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
 <!-- Include: docs/disclaimer.md -->
@@ -12,7 +12,7 @@
 
 ## Bump a new version
 
-Make a new version of terraform-module-template in the following steps:
+Make a new version of terraform-aws-k8s in the following steps:
 
 ### Generate version major
 
